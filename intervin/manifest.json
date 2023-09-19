@@ -1,0 +1,2096 @@
+{
+    "manifest_version": "1.0.19",
+    "title": "Intervin - Real Estate Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/intervin.strongtheme.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/intervin.strongtheme.com\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/intervin.strongtheme.com\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Agents",
+            "screenshot": "screenshots\/agents.jpg",
+            "source": "templates\/agents.json",
+            "preview_url": "https:\/\/intervin.strongtheme.com\/template-kit\/agents\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Properties",
+            "screenshot": "screenshots\/properties.jpg",
+            "source": "templates\/properties.json",
+            "preview_url": "https:\/\/intervin.strongtheme.com\/template-kit\/properties\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/intervin.strongtheme.com\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Agents Profile",
+            "screenshot": "screenshots\/agents-profile.jpg",
+            "source": "templates\/agents-profile.json",
+            "preview_url": "https:\/\/intervin.strongtheme.com\/template-kit\/agents-profile\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Detail Properties",
+            "screenshot": "screenshots\/detail-properties.jpg",
+            "source": "templates\/detail-properties.json",
+            "preview_url": "https:\/\/intervin.strongtheme.com\/template-kit\/detail-properties\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Agency",
+            "screenshot": "screenshots\/agency.jpg",
+            "source": "templates\/agency.json",
+            "preview_url": "https:\/\/intervin.strongtheme.com\/template-kit\/agency\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Testimonial",
+            "screenshot": "screenshots\/testimonial.jpg",
+            "source": "templates\/testimonial.json",
+            "preview_url": "https:\/\/intervin.strongtheme.com\/template-kit\/testimonial\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/intervin.strongtheme.com\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Error 404",
+            "screenshot": "screenshots\/error-404.jpg",
+            "source": "templates\/error-404.json",
+            "preview_url": "https:\/\/intervin.strongtheme.com\/?elementor_library=elementor-error-404-1744",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404",
+                    "include\/singular\/page\/1913"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page &amp; Page #1913."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/intervin.strongtheme.com\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Agents Profile Popups",
+            "screenshot": "screenshots\/agents-profile-popups.jpg",
+            "source": "templates\/agents-profile-popups.json",
+            "preview_url": "https:\/\/intervin.strongtheme.com\/?elementor_library=agents-profile",
+            "type": "popup",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-popup",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "popup",
+                "additional_template_information": [
+                    "This is a \"Popup\" template for Elementor Pro."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/intervin.strongtheme.com\/?elementor_library=header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/intervin.strongtheme.com\/?elementor_library=footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor Pro",
+            "version": "3.2.1",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.2.3",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.2.4",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        }
+    ],
+    "images": [
+        {
+            "filename": "inabt03.png",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/inabt03.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 240306,
+            "dimensions": [
+                800,
+                550
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/close-up-of-modern-row-houses-with-solar-panels-P72ZCRD"
+        },
+        {
+            "filename": "unhome08.png",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/unhome08.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 310322,
+            "dimensions": [
+                800,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/hi-rise-apartment-building-P4CKBXY"
+        },
+        {
+            "filename": "unhome06.png",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/unhome06.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 248525,
+            "dimensions": [
+                800,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/new-office-building-in-hamburg-PJDPH53"
+        },
+        {
+            "filename": "unhome09.png",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/unhome09.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 251346,
+            "dimensions": [
+                800,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/modern-apartment-house-PE9EG33"
+        },
+        {
+            "filename": "unhome10.png",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/unhome10.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 309383,
+            "dimensions": [
+                800,
+                571
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/gray-apartment-house-PYYEPHC"
+        },
+        {
+            "filename": "incon02.png",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/incon02.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 9723,
+            "dimensions": [
+                452,
+                428
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "incon027.png",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/incon027.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 4176,
+            "dimensions": [
+                121,
+                121
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/real-estate-line-icon-set-LZYDTX3\/"
+        },
+        {
+            "filename": "incon026.png",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/incon026.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 3999,
+            "dimensions": [
+                121,
+                121
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/real-estate-line-icon-set-LZYDTX3\/"
+        },
+        {
+            "filename": "incon025.png",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/incon025.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 4076,
+            "dimensions": [
+                121,
+                121
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/real-estate-line-icon-set-LZYDTX3\/"
+        },
+        {
+            "filename": "incon024.png",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/incon024.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 4590,
+            "dimensions": [
+                121,
+                121
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/real-estate-line-icon-set-LZYDTX3\/"
+        },
+        {
+            "filename": "inhom015.jpg",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/inhom015-800x499.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/properties.json",
+                    "name": "Properties"
+                },
+                {
+                    "source": "templates\/detail-properties.json",
+                    "name": "Detail Properties"
+                },
+                {
+                    "source": "templates\/agency.json",
+                    "name": "Agency"
+                }
+            ],
+            "filesize": 53374,
+            "dimensions": [
+                1025,
+                639
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/interior-of-living-room-with-comfortable-designer--EA6JLCT"
+        },
+        {
+            "filename": "incon017.png",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/incon017.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/properties.json",
+                    "name": "Properties"
+                },
+                {
+                    "source": "templates\/detail-properties.json",
+                    "name": "Detail Properties"
+                },
+                {
+                    "source": "templates\/agency.json",
+                    "name": "Agency"
+                }
+            ],
+            "filesize": 3699,
+            "dimensions": [
+                163,
+                163
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/tynicon-real-estate-icons-SKQWA77"
+        },
+        {
+            "filename": "incon018.png",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/incon018.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/properties.json",
+                    "name": "Properties"
+                },
+                {
+                    "source": "templates\/detail-properties.json",
+                    "name": "Detail Properties"
+                },
+                {
+                    "source": "templates\/agency.json",
+                    "name": "Agency"
+                }
+            ],
+            "filesize": 4542,
+            "dimensions": [
+                163,
+                163
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/tynicon-real-estate-icons-SKQWA77"
+        },
+        {
+            "filename": "incon019.png",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/incon019.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/properties.json",
+                    "name": "Properties"
+                },
+                {
+                    "source": "templates\/detail-properties.json",
+                    "name": "Detail Properties"
+                },
+                {
+                    "source": "templates\/agency.json",
+                    "name": "Agency"
+                }
+            ],
+            "filesize": 3556,
+            "dimensions": [
+                163,
+                164
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/tynicon-real-estate-icons-SKQWA77"
+        },
+        {
+            "filename": "inhom014.jpg",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/inhom014-800x499.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/properties.json",
+                    "name": "Properties"
+                }
+            ],
+            "filesize": 48362,
+            "dimensions": [
+                1025,
+                639
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/scandinavian-living-room-YEKVN6X"
+        },
+        {
+            "filename": "inhom016.jpg",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/inhom016-800x499.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/properties.json",
+                    "name": "Properties"
+                }
+            ],
+            "filesize": 38409,
+            "dimensions": [
+                1025,
+                639
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/luxury-living-room-PV64C86"
+        },
+        {
+            "filename": "inhom023.jpg",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/inhom023-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/properties.json",
+                    "name": "Properties"
+                },
+                {
+                    "source": "templates\/detail-properties.json",
+                    "name": "Detail Properties"
+                }
+            ],
+            "filesize": 111453,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/botanic-living-room-PKYVMRE"
+        },
+        {
+            "filename": "inhom024.jpg",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/inhom024-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/properties.json",
+                    "name": "Properties"
+                },
+                {
+                    "source": "templates\/detail-properties.json",
+                    "name": "Detail Properties"
+                },
+                {
+                    "source": "templates\/agency.json",
+                    "name": "Agency"
+                }
+            ],
+            "filesize": 75472,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/green-and-white-home-interior-P8FD9ZF"
+        },
+        {
+            "filename": "inhom026.jpg",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/inhom026-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/properties.json",
+                    "name": "Properties"
+                },
+                {
+                    "source": "templates\/detail-properties.json",
+                    "name": "Detail Properties"
+                }
+            ],
+            "filesize": 89978,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/new-living-room-with-armchair-PG7RSW4"
+        },
+        {
+            "filename": "Mask-Group-6.png",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/Mask-Group-6-800x337.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 283586,
+            "dimensions": [
+                1162,
+                490
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/modern-living-room-interior-5WULHVW"
+        },
+        {
+            "filename": "Group-7.jpg",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/Group-7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 68438,
+            "dimensions": [
+                632,
+                585
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/modern-living-room-interior-5WULHVW"
+        },
+        {
+            "filename": "inhom025.jpg",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/inhom025-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 75751,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/modern-living-room-interior-5WULHVW"
+        },
+        {
+            "filename": "inhom027.jpg",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/inhom027-800x527.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 49956,
+            "dimensions": [
+                1200,
+                790
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/sunlight-in-living-room-PE63RQ7"
+        },
+        {
+            "filename": "inhom018.jpg",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/inhom018-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 145963,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/new-york-architecture-PQWX46Y"
+        },
+        {
+            "filename": "inhom017.jpg",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/inhom017-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/detail-properties.json",
+                    "name": "Detail Properties"
+                }
+            ],
+            "filesize": 153386,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/hong-kong-Y4HNEXB"
+        },
+        {
+            "filename": "inabt040.jpg",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/inabt040-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 119803,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/hamburg-city-old-port-germany-europe-historical-fa-WTT2PJS"
+        },
+        {
+            "filename": "inabt041.jpg",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/inabt041-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 96422,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/tower-bridge-over-the-river-thames-in-london-in-th-MT4AZUK"
+        },
+        {
+            "filename": "inabt042.jpg",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/inabt042-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 119301,
+            "dimensions": [
+                1000,
+                667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/beautiful-architecture-building-exterior-city-in-k-S2R56FK"
+        },
+        {
+            "filename": "inhom022.jpg",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/inhom022-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/agents.json",
+                    "name": "Agents"
+                },
+                {
+                    "source": "templates\/agents-profile.json",
+                    "name": "Agents Profile"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 49911,
+            "dimensions": [
+                920,
+                920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-smiling-real-estate-agent-in-new-apart-T4HAMH9"
+        },
+        {
+            "filename": "incon020.png",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/incon020.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/agents.json",
+                    "name": "Agents"
+                },
+                {
+                    "source": "templates\/agents-profile.json",
+                    "name": "Agents Profile"
+                },
+                {
+                    "source": "templates\/detail-properties.json",
+                    "name": "Detail Properties"
+                },
+                {
+                    "source": "templates\/agents-profile-popups.json",
+                    "name": "Agents Profile Popups"
+                }
+            ],
+            "filesize": 2816,
+            "dimensions": [
+                136,
+                47
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "inhom021.jpg",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/inhom021-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/agents.json",
+                    "name": "Agents"
+                },
+                {
+                    "source": "templates\/agents-profile.json",
+                    "name": "Agents Profile"
+                },
+                {
+                    "source": "templates\/detail-properties.json",
+                    "name": "Detail Properties"
+                }
+            ],
+            "filesize": 40061,
+            "dimensions": [
+                920,
+                920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/confident-businessman-in-a-studio-9AQFUL4"
+        },
+        {
+            "filename": "inhom020.jpg",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/inhom020-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/agents.json",
+                    "name": "Agents"
+                },
+                {
+                    "source": "templates\/agents-profile.json",
+                    "name": "Agents Profile"
+                },
+                {
+                    "source": "templates\/agents-profile-popups.json",
+                    "name": "Agents Profile Popups"
+                }
+            ],
+            "filesize": 40696,
+            "dimensions": [
+                920,
+                920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/elegant-businessman-KGZ9TN8"
+        },
+        {
+            "filename": "inhom019.jpg",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/inhom019-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/agents.json",
+                    "name": "Agents"
+                },
+                {
+                    "source": "templates\/agents-profile.json",
+                    "name": "Agents Profile"
+                }
+            ],
+            "filesize": 31146,
+            "dimensions": [
+                920,
+                920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/real-estate-agent-at-work-3LD3APN"
+        },
+        {
+            "filename": "Group-1@2x.png",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/Group-1@2x.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3412,
+            "dimensions": [
+                520,
+                174
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "Group-5@2x.png",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/Group-5@2x.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2487,
+            "dimensions": [
+                520,
+                174
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "Group-4@2x.png",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/Group-4@2x.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3000,
+            "dimensions": [
+                520,
+                174
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "Group-3@2x.png",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/Group-3@2x.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 4086,
+            "dimensions": [
+                520,
+                174
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "Group-2@2x.png",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/Group-2@2x.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2802,
+            "dimensions": [
+                520,
+                174
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "Group-7@2x.png",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/Group-7@2x.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2326,
+            "dimensions": [
+                520,
+                174
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "inhom030.jpg",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/inhom030-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 60578,
+            "dimensions": [
+                1200,
+                801
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/elegant-living-room-YVPCQZX"
+        },
+        {
+            "filename": "inabt02.png",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/inabt02.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 148710,
+            "dimensions": [
+                706,
+                502
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/white-house-close-to-the-nature-PUTA7X8"
+        },
+        {
+            "filename": "agnin01.jpg",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/agnin01-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/agents.json",
+                    "name": "Agents"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 41690,
+            "dimensions": [
+                920,
+                920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-business-group-UM2TRQY"
+        },
+        {
+            "filename": "agnin04.jpg",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/agnin04-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/agents.json",
+                    "name": "Agents"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 43753,
+            "dimensions": [
+                920,
+                920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-business-group-UM2TRQY"
+        },
+        {
+            "filename": "agnin03.jpg",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/agnin03-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/agents.json",
+                    "name": "Agents"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 36197,
+            "dimensions": [
+                920,
+                920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-business-group-UM2TRQY"
+        },
+        {
+            "filename": "incon023.png",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/incon023.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2896,
+            "dimensions": [
+                685,
+                6
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "incon021.png",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/incon021.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 11801,
+            "dimensions": [
+                314,
+                315
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Group-11.png",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/Group-11.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 151808,
+            "dimensions": [
+                712,
+                712
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-couple-having-meeting-with-realtor-in--G9ZXFDT"
+        },
+        {
+            "filename": "Group-10.png",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/Group-10.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 176355,
+            "dimensions": [
+                713,
+                712
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/54680-living-room-ADABSLV"
+        },
+        {
+            "filename": "Group-8.png",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/Group-8.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 177801,
+            "dimensions": [
+                713,
+                712
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/house-in-the-suburbs-PVYU5G3"
+        },
+        {
+            "filename": "Group-9.png",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/Group-9.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 154355,
+            "dimensions": [
+                712,
+                712
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/modern-living-room-interior-5WULHVW"
+        },
+        {
+            "filename": "inabt01.png",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/inabt01.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 144848,
+            "dimensions": [
+                731,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-manager-in-real-estate-agency-7TL5SCW"
+        },
+        {
+            "filename": "incon029.png",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/incon029.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 3514,
+            "dimensions": [
+                186,
+                185
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/tynicon-real-estate-icons-SKQWA77"
+        },
+        {
+            "filename": "incon028.png",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/incon028.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 3799,
+            "dimensions": [
+                185,
+                185
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/tynicon-real-estate-icons-SKQWA77"
+        },
+        {
+            "filename": "incon033.png",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/incon033.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 4463,
+            "dimensions": [
+                169,
+                169
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/30-real-estate-icons-LRY6NU4"
+        },
+        {
+            "filename": "incon032.png",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/incon032.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 6420,
+            "dimensions": [
+                169,
+                169
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/30-real-estate-icons-LRY6NU4"
+        },
+        {
+            "filename": "incon031.png",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/incon031.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 6051,
+            "dimensions": [
+                170,
+                169
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/30-real-estate-icons-LRY6NU4"
+        },
+        {
+            "filename": "incon030.png",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/incon030.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 4753,
+            "dimensions": [
+                169,
+                169
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/30-real-estate-icons-LRY6NU4"
+        },
+        {
+            "filename": "inabt025.jpg",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/inabt025-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/detail-properties.json",
+                    "name": "Detail Properties"
+                },
+                {
+                    "source": "templates\/agency.json",
+                    "name": "Agency"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 90128,
+            "dimensions": [
+                1100,
+                734
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/noble-apartments-in-berlin-PWH2C3D"
+        },
+        {
+            "filename": "inabt024.jpg",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/inabt024-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 115008,
+            "dimensions": [
+                1100,
+                733
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/buildings-in-the-hafencity-hamburg-PE868EZ"
+        },
+        {
+            "filename": "inabt023.jpg",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/inabt023-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 107389,
+            "dimensions": [
+                1100,
+                734
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/modern-white-townhouses-in-berlin-PFEYP6H"
+        },
+        {
+            "filename": "inabt022.jpg",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/inabt022-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/detail-properties.json",
+                    "name": "Detail Properties"
+                }
+            ],
+            "filesize": 114985,
+            "dimensions": [
+                1100,
+                733
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/modern-luxury-apartment-buildings-NC62NDQ"
+        },
+        {
+            "filename": "agnin02.jpg",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/agnin02-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/agents.json",
+                    "name": "Agents"
+                }
+            ],
+            "filesize": 34274,
+            "dimensions": [
+                920,
+                920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-business-group-UM2TRQY"
+        },
+        {
+            "filename": "inabt030.jpg",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/inabt030-800x237.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 90149,
+            "dimensions": [
+                1200,
+                356
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/hong-kong-cityscape-L4M3JN3"
+        },
+        {
+            "filename": "incon040.png",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/incon040.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 4955,
+            "dimensions": [
+                239,
+                240
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/real-estate-line-icon-set-LZYDTX3\/"
+        },
+        {
+            "filename": "incon041.png",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/incon041.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 6181,
+            "dimensions": [
+                239,
+                240
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/real-estate-line-icon-set-LZYDTX3\/"
+        },
+        {
+            "filename": "incon039.png",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/incon039.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 5387,
+            "dimensions": [
+                240,
+                239
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/real-estate-line-icon-set-LZYDTX3\/"
+        },
+        {
+            "filename": "inabt027.jpg",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/inabt027-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 81747,
+            "dimensions": [
+                1200,
+                801
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/young-couple-choosing-house-at-the-real-estate-age-C8UMCRQ"
+        },
+        {
+            "filename": "incon034.png",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/incon034.png",
+            "templates": [
+                {
+                    "source": "templates\/detail-properties.json",
+                    "name": "Detail Properties"
+                }
+            ],
+            "filesize": 5446,
+            "dimensions": [
+                163,
+                164
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/tynicon-real-estate-icons-SKQWA77"
+        },
+        {
+            "filename": "agnin05.jpg",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/agnin05-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/detail-properties.json",
+                    "name": "Detail Properties"
+                }
+            ],
+            "filesize": 75364,
+            "dimensions": [
+                1200,
+                801
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/closeup-of-house-plan-blueprint-P6NSYAF"
+        },
+        {
+            "filename": "incon045.png",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/incon045.png",
+            "templates": [
+                {
+                    "source": "templates\/agency.json",
+                    "name": "Agency"
+                }
+            ],
+            "filesize": 26168,
+            "dimensions": [
+                794,
+                562
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elegant-real-estate-property-logo-2BD9V8N"
+        },
+        {
+            "filename": "incon046.png",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/incon046.png",
+            "templates": [
+                {
+                    "source": "templates\/agency.json",
+                    "name": "Agency"
+                }
+            ],
+            "filesize": 19984,
+            "dimensions": [
+                794,
+                562
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/luxury-real-estate-logo-EH22DW"
+        },
+        {
+            "filename": "incon047.png",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/incon047.png",
+            "templates": [
+                {
+                    "source": "templates\/agency.json",
+                    "name": "Agency"
+                }
+            ],
+            "filesize": 18956,
+            "dimensions": [
+                794,
+                562
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/flaty-negative-space-property-logo-RU8F8W"
+        },
+        {
+            "filename": "incon048.png",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/incon048.png",
+            "templates": [
+                {
+                    "source": "templates\/agency.json",
+                    "name": "Agency"
+                }
+            ],
+            "filesize": 13732,
+            "dimensions": [
+                794,
+                562
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/real-estate-logo-2MCAE8"
+        },
+        {
+            "filename": "inabt033.png",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/inabt033.png",
+            "templates": [
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 188161,
+            "dimensions": [
+                585,
+                787
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/handsome-young-business-man-looking-at-camera-whil-ETYK56Y"
+        },
+        {
+            "filename": "inabt032.png",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/inabt032-800x320.png",
+            "templates": [
+                {
+                    "source": "templates\/error-404.json",
+                    "name": "Error 404"
+                }
+            ],
+            "filesize": 287520,
+            "dimensions": [
+                1053,
+                421
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/four-modern-social-housing-apartments-PD2ATWR"
+        },
+        {
+            "filename": "inabt04.png",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/inabt04-800x712.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 247768,
+            "dimensions": [
+                824,
+                733
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/white-modern-townhouses-in-germany-P52E3VN"
+        },
+        {
+            "filename": "incon036.png",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/incon036.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 4349,
+            "dimensions": [
+                308,
+                308
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "incon037.png",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/incon037.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 6205,
+            "dimensions": [
+                308,
+                307
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "incon038.png",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/incon038.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 10405,
+            "dimensions": [
+                308,
+                307
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "incon035.png",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/incon035.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 5442,
+            "dimensions": [
+                308,
+                308
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "inabt026.png",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/inabt026-800x311.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 84013,
+            "dimensions": [
+                1849,
+                719
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/snazzymaps.com\/style\/29\/light-monochrome"
+        },
+        {
+            "filename": "logo3.png",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/logo3.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 7411,
+            "dimensions": [
+                500,
+                59
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "unhome02.png",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/unhome02-800x686.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 316724,
+            "dimensions": [
+                850,
+                729
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/facade-of-modern-high-rise-residential-building-AV5H8DK"
+        },
+        {
+            "filename": "logo4.png",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/logo4.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 8484,
+            "dimensions": [
+                611,
+                72
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "incon042.png",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/incon042.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 5328,
+            "dimensions": [
+                254,
+                254
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "incon044.png",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/incon044.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 6028,
+            "dimensions": [
+                254,
+                254
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "incon043.png",
+            "thumbnail_url": "https:\/\/intervin.strongtheme.com\/wp-content\/uploads\/2021\/05\/incon043.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 7924,
+            "dimensions": [
+                255,
+                254
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}
